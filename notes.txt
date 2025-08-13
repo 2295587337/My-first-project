@@ -1,0 +1,18 @@
+我的 GitHub 学习笔记
+====================
+
+2023-10-27:
+*   目标：用手机在GitHub上发布我的第一个项目。
+*   步骤：
+    1.  注册了GitHub账号 (用户名: [你的用户名])。
+    2.  创建了一个新仓库，名字叫 "my-first-github-project"。
+    3.  上传了5个文件：README.md, index.html, styles.css, scripts.js, notes.txt。
+    4.  成功提交 (Commit)！
+*   感想：比想象中简单！手机操作也能完成。README文件很重要。
+
+待办事项 (TODO):
+----------------
+[ ] 学习如何更新项目文件（修改后重新上传）。
+[ ] 学习什么是分支 (Branch)。
+[ ] 尝试编辑 README.md 文件，添加更多项目介绍。
+[ ] 研究如何把项目变成网站（GitHub Pages）。
